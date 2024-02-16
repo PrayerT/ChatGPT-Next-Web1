@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          Prayer's ChatGPT 4.0
+          Prayer&apos;s ChatGPT 4.0
         </div>
         <div className={styles["sidebar-sub-title"]}>
           Constantly evolving！
